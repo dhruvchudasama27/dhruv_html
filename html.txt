@@ -1,0 +1,12 @@
+&nbsp; => single space
+&emsp; => multipale space
+br => breake (new line)
+b => bold
+i => italic
+u => underline
+strike => overline
+h1 to h6 => heading
+p => paragraph
+div => div tag (for grouping tag)
+span => for group small text
+font => for applying font effect to text
